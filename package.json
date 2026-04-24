@@ -7,7 +7,9 @@
     "@coral-xyz/anchor": "0.29.0",
     "@solana/spl-token": "0.4.3",
     "@solana/web3.js": "1.78.4",
-    "bn.js": "*"
+    "bn.js": "*",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "@types/bn.js": "^5.1.1",
